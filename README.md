@@ -1,0 +1,2 @@
+# training
+Practicas con GitHub
